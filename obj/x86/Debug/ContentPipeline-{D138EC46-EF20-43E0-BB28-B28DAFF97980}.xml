@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>cheese.png</Source>
+      <Name>cheese</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\cheese.xnb</Output>
+      <Time>2014-10-31T18:42:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Tablecloth.png</Source>
+      <Name>Tablecloth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Tablecloth.xnb</Output>
+      <Time>2014-10-31T18:42:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MessageFont.spritefont</Source>
+      <Name>MessageFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\MessageFont.xnb</Output>
+      <Time>2014-10-31T18:43:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Theme.mp3</Source>
+      <Name>Theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Theme.xnb</Output>
+      <Extra>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Theme.wma</Extra>
+      <Time>2014-10-31T19:41:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>backgroundtest.png</Source>
+      <Name>backgroundtest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\backgroundtest.xnb</Output>
+      <Time>2014-11-01T10:49:46.3808+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gulltest.png</Source>
+      <Name>gulltest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gulltest.xnb</Output>
+      <Time>2014-11-01T04:46:37.031839+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Button.png</Source>
+      <Name>Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Button.xnb</Output>
+      <Time>2014-10-31T20:46:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu.png</Source>
+      <Name>MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\MainMenu.xnb</Output>
+      <Time>2014-10-31T19:53:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Rain.png</Source>
+      <Name>Rain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Rain.xnb</Output>
+      <Time>2014-10-28T20:43:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>seagullplaceholder.png</Source>
+      <Name>seagullplaceholder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\seagullplaceholder.xnb</Output>
+      <Time>2014-11-01T01:07:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Snow.png</Source>
+      <Name>Snow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Snow.xnb</Output>
+      <Time>2014-10-29T15:56:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Title.png</Source>
+      <Name>Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Title.xnb</Output>
+      <Time>2014-10-31T19:53:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gulltest2.png</Source>
+      <Name>gulltest2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gulltest2.xnb</Output>
+      <Time>2014-11-01T04:46:50.175889+00:00</Time>
+    </Item>
+    <Item>
+      <Source>musicTitle.mp3</Source>
+      <Name>musicTitle</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\musicTitle.xnb</Output>
+      <Extra>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\musicTitle.wma</Extra>
+      <Time>2014-11-01T08:19:55.5208632+00:00</Time>
+    </Item>
+    <Item>
+      <Source>musicDeath.mp3</Source>
+      <Name>musicDeath</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\musicDeath.xnb</Output>
+      <Extra>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\musicDeath.wma</Extra>
+      <Time>2014-11-01T08:24:19.8582848+00:00</Time>
+    </Item>
+    <Item>
+      <Source>eagle.png</Source>
+      <Name>eagle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\eagle.xnb</Output>
+      <Time>2014-11-01T09:34:05.3402184+00:00</Time>
+    </Item>
+    <Item>
+      <Source>seagull.png</Source>
+      <Name>seagull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\seagull.xnb</Output>
+      <Time>2014-11-01T09:34:05.3794197+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background.png</Source>
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Background.xnb</Output>
+      <Time>2014-11-01T10:50:17.759953+00:00</Time>
+    </Item>
+    <Item>
+      <Source>cracker.png</Source>
+      <Name>cracker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\cracker.xnb</Output>
+      <Time>2014-11-01T10:02:05.202894+00:00</Time>
+    </Item>
+    <Item>
+      <Source>cracker1.png</Source>
+      <Name>cracker1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\cracker1.xnb</Output>
+      <Time>2014-10-31T18:42:54+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D138EC46-EF20-43E0-BB28-B28DAFF97980}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1Content\</RootDirectory>
+      <LoggerRootDirectory>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-28T15:27:34.7616532+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

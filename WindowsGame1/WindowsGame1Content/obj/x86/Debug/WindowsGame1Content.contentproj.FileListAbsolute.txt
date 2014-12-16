@@ -1,0 +1,2 @@
+\\data.adir.hull.ac.uk\home4\490\490448\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+\\data.adir.hull.ac.uk\home4\482\482489\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
